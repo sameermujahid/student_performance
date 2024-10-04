@@ -2,9 +2,11 @@ import streamlit as st
 import pandas as pd
 import joblib
 import numpy as np
+import os
 
-# Load the trained model
-model = joblib.load('C:\\Users\\samee\\PycharmProjects\\PersonalAssistant\\best_gpa_prediction_model.pkl')
+# Load the trained model using a relative path
+model_path = os.path.join(os.path.dirname(__file__), 'best_gpa_prediction_model.pkl')
+model = joblib.load(model_path)
 
 # Define the input form
 st.title('GPA Prediction App')
