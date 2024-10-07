@@ -22,7 +22,7 @@ study_time_weekly = st.number_input("Study Time Weekly (hours)", min_value=0.0, 
 absences = st.number_input("Number of Absences", min_value=0, max_value=40, value=0)
 tutoring = st.selectbox("Tutoring", ['Yes', 'No'])
 parental_support = st.selectbox("Parental Support", ['Moderate', 'Low', 'High', 'Very High', 'None'])
-extracurricular = st.selectbox("Extracurricular Activities", ['No', 'Yes'])
+extracurricular = st.selectbox("Club Involvement", ['No', 'Yes'])
 sports = st.selectbox("Sports Participation", ['No', 'Yes'])
 music = st.selectbox("Music Participation", ['Yes', 'No'])
 volunteering = st.selectbox("Volunteering", ['No', 'Yes'])
