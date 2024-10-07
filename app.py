@@ -10,8 +10,6 @@ import os
 model_path = os.path.join(os.path.dirname(__file__), 'best_gpa_prediction_model.pkl')
 model = joblib.load(model_path)
 
-# Define the input form
-st.title('GPA Prediction App')
 
 st.write("Please enter the following details:")
 
