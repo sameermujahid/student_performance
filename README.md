@@ -215,8 +215,9 @@ Future enhancements may include:
 - Integrating this model into an application for real-time predictions.
 
 ## References
-
-- [Kaggle Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
-- [Relevant Articles or Research Papers](https://onlinelibrary.wiley.com/doi/10.1155/2024/4067721,https://kth.diva-portal.org/smash/get/diva2:1795896/FULLTEXT01.pdf,https://www.irjmets.com/uploadedfiles/paper/issue_6_june_2023/42322/final/fin_irjmets1687680310.pdf)
+1. [Kaggle Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+2. [Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1155/2024/4067721)
+3. [KTH Diva Portal](https://kth.diva-portal.org/smash/get/diva2:1795896/FULLTEXT01.pdf)
+4. [IRJMETS](https://www.irjmets.com/uploadedfiles/paper/issue_6_june_2023/42322/final/fin_irjmets1687680310.pdf)
 
 ---
